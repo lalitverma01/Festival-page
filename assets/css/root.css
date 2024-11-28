@@ -1,0 +1,22 @@
+:root {
+    --bg-color-sky: #2C49FE1A;
+    --bg-color-blue: blue;
+    --bg-color-Errigal-White: #F1F2F5;
+    --color-black: #000000;
+    --color-white:#FFFF;
+    --font-poppins:"Poppins",sans-serif;
+    --fs-48: 48px;
+    --fs-16: 16px;
+}
+
+.font-size-48 {
+    font-size: var(--fs-48);
+}
+
+.font-size-16 {
+    font-size: var(--fs-16);
+}
+
+.font-poppins {
+    font-family: var(--font-poppins);
+}
