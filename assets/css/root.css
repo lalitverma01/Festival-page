@@ -2,11 +2,24 @@
     --bg-color-sky: #2C49FE1A;
     --bg-color-blue: blue;
     --bg-color-Errigal-White: #F1F2F5;
+    --bg-color-Fibonacci-Blue: rgba(24, 32, 92);
     --color-black: #000000;
-    --color-white:#FFFF;
-    --font-poppins:"Poppins",sans-serif;
+    --color-white: #FFFF;
+    --font-poppins: "Poppins", sans-serif;
     --fs-48: 48px;
     --fs-16: 16px;
+    --fs-14: 14px;
+    --fs-12: 12px;
+    --fs-36: 36px;
+    --fs-20: 20px;
+}
+
+.font-size-12 {
+    font-size: var(--fs-12);
+}
+
+.font-size-14 {
+    font-size: var(--fs-14);
 }
 
 .font-size-48 {
@@ -15,6 +28,14 @@
 
 .font-size-16 {
     font-size: var(--fs-16);
+}
+
+.font-size-36 {
+    font-size: var(--fs-36);
+}
+
+.font-size-20 {
+    font-size: var(--fs-20);
 }
 
 .font-poppins {
